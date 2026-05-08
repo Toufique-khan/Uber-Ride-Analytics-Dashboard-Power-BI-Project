@@ -137,7 +137,7 @@ This project helped me strengthen my skills in:
 ---
 
 # 📂 Project Workflow
-
+```bash
 Raw Dataset
    ↓
 Data Cleaning
@@ -149,7 +149,7 @@ KPI Development
 Dashboard Design
    ↓
 Business Insights & Reporting
-
+```
 
 # 💡 Business Questions Answered
 
