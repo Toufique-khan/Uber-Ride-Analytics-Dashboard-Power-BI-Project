@@ -138,7 +138,6 @@ This project helped me strengthen my skills in:
 
 # 📂 Project Workflow
 
-```bash id="n4s8wa"
 Raw Dataset
    ↓
 Data Cleaning
@@ -150,3 +149,55 @@ KPI Development
 Dashboard Design
    ↓
 Business Insights & Reporting
+
+
+# 💡 Business Questions Answered
+
+Why are bookings being lost?
+
+Which vehicle types generate maximum revenue?
+
+What is the ride completion performance?
+
+Which services are most in demand?
+
+How is customer revenue distributed?
+
+What operational improvements can increase revenue?
+
+## 📷 Dashboard Preview
+
+Home Page
+<img width="1440" height="802" alt="image" src="https://github.com/user-attachments/assets/23d444f6-fc3c-4e05-aec6-bdaaaa077f16" />
+Overview Page 
+<img width="1618" height="800" alt="image" src="https://github.com/user-attachments/assets/90936492-db44-4dde-9412-b37cd7854e69" />
+Overview Page
+<img width="1611" height="805" alt="image" src="https://github.com/user-attachments/assets/426335f1-8ca8-44ff-948a-1e0fef79bdd7" />
+Vehicle Page
+<img width="1618" height="804" alt="image" src="https://github.com/user-attachments/assets/b8eb12a0-477a-4f8d-a579-c51e2db86fde" />
+Revenue Page
+<img width="1620" height="805" alt="image" src="https://github.com/user-attachments/assets/d0c5baf2-3fb5-4964-b03e-d3735cc0f685" />
+Insights Page
+<img width="1438" height="806" alt="image" src="https://github.com/user-attachments/assets/4d766f8f-e0da-4bc1-84f8-705d2b1a02c2" />
+<br>
+<img width="1435" height="805" alt="image" src="https://github.com/user-attachments/assets/7c6a944c-8988-4344-9792-10b4f4215189" />
+
+## 📌 Project Purpose
+
+# This project was built to practice:
+ 
+Real-world business analytics
+
+Power BI dashboard development
+
+Data storytelling
+
+Interactive reporting
+
+Insight-driven decision making
+
+---
+
+Built with Power BI to transform ride data into actionable business insights 🚕📊
+<br>
+Author - Toufique Ahmed Khan
